@@ -4,7 +4,7 @@ channels:
   - defaults
   - conda-forge/label/broken
 dependencies:
-  - _libgcc_mutex=0.1=conda-forge
+  - _libgcc_mutex=0.1=conda_forge
   - backcall=0.2.0=py_0
   - blas=1.0=mkl
   - brotlipy=0.7.0=py38h27cfd23_1003
